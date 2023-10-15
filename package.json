@@ -1,0 +1,28 @@
+{
+  "name": "auth0_simple",
+  "version": "1.0.0",
+  "description": "express-auth0 simple application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/livingbeings/auth0_simple.git"
+  },
+  "keywords": [
+    "auth0",
+    "expressjs"
+  ],
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livingbeings/auth0_simple/issues"
+  },
+  "homepage": "https://github.com/livingbeings/auth0_simple#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
